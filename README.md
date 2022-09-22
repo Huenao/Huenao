@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Wentao Hu, a Master student at Sun Yat-Sen University.
+
 <!--
 **ValensHu/ValensHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
