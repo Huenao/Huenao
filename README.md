@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hey, guys 👋
 
 I am Wentao Hu, a Master student at Sun Yat-Sen University.
 
+- 🔭 I’m currently interning at ![Manycore Tech](https://www.coohom.com/?hl=zh-CN)
+
+![Sheva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShevaXu&show_icons=true&theme=merko)
 <!--
 **ValensHu/ValensHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
