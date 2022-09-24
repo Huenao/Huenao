@@ -7,7 +7,7 @@
 
 Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rocket: from Nanchang, China, now lives in Hangzhou​.
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only)
 
 ### :smile: About me
 -	:mortar_board: A graduate student at Sun Yat-Sen University.
@@ -16,7 +16,7 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 -	:speech_balloon: You can ask me anything at [Discussions](https://github.com/Huenao/Huenao/discussions)!
 -	:mailbox: How to reach me: huwt25@mail2.sysu.edu.cn 
 
-[<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">]()
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">]()
 
 ### :computer: The field I focus
 - Machine Learning/Deep Learning
