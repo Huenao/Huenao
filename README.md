@@ -18,17 +18,16 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 -	:mailbox: How to reach me: huwt25@mail2.sysu.edu.cn 
 
 &nbsp;
-&nbsp;
 
 ### :computer: The field I focus
-
-[<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-dark-mode-only)
 
 - Machine Learning/Deep Learning
 - Computer Vision
 - Multimodal Representation Learning
 - Data Analysis
 - **Anything interesting**
+
+[<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-dark-mode-only)
 
 
 
