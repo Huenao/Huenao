@@ -27,7 +27,7 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 - Data Analysis
 - **Anything interesting**
 
-[<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-dark-mode-only)
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-dark-mode-only)
 
 
 
