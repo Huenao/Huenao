@@ -21,7 +21,8 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 &nbsp;
 
 ### :computer: The field I focus
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-dark-mode-only)
+
+[![<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-dark-mode-only)]()
 
 - Machine Learning/Deep Learning
 - Computer Vision
