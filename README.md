@@ -7,7 +7,7 @@
 
 Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rocket: from Nanchang, China, now lives in Hangzhou​.
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only)
+[<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only)
 
 ### :smile: About me
 -	:mortar_board: A graduate student at Sun Yat-Sen University.
