@@ -2,6 +2,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ValensHu.ValensHu)
 
+| :briefcase: I’m currently interning at [Manycore Research Institute](https://github.com/manycore-research/).- :speech_balloon: You can ask me anything at [Discussions](https://github.com/Huenao/Huenao/discussions)! | [<img src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only) |
+| ------ | ------ |
+
 I am **Hu** W**en**t**ao**, a graduate student at Sun Yat-Sen University.
 
 ### :smile: About me
