@@ -16,13 +16,10 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 -	:seedling: I'm currently learning ​Computer Vision and Deep Learning.
 -	:speech_balloon: You can ask me anything at [Discussions](https://github.com/Huenao/Huenao/discussions)!
 -	:mailbox: How to reach me: huwt25@mail2.sysu.edu.cn 
--	
 
 &nbsp;
 
 ### :computer: The field I focus
-
-[![<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-dark-mode-only)]()
 
 - Machine Learning/Deep Learning
 - Computer Vision
@@ -30,5 +27,5 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 - Data Analysis
 - **Anything interesting**
 
-
+[<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huenao&show_icons=true">]()
 
