@@ -5,11 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=ValensHu.ValensHu)
 
-&nbsp;
-
 Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rocket: from Nanchang, China, now lives in Hangzhou​.
-
-&nbsp;
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only)
 
@@ -31,3 +27,7 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 - Multimodal Representation Learning
 - Data Analysis
 - **Anything interesting**
+
+### :hammer: Languages and Tools
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
