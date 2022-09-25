@@ -29,5 +29,6 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 - **Anything interesting**
 
 ### :hammer: Languages and Tools
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
