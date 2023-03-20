@@ -12,7 +12,7 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 ### :smile: About me
 
 -	:mortar_board: A graduate student at Sun Yat-Sen University.
--	:briefcase: I’m currently interning at [Manycore Research Institute](https://github.com/manycore-research/).
+-	:briefcase: I used to internship in [Manycore Research Institute](https://github.com/manycore-research/).
 -	:speech_balloon: You can ask me anything at [Discussions](https://github.com/Huenao/Huenao/discussions)!
 -	:mailbox: How to reach me: huwt25@mail2.sysu.edu.cn 
 
