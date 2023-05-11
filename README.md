@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 [![ViewCount](https://views.whatilearened.today/views/github/huenao/huenao.svg)]()
 
-Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rocket: from Nanchang, China, now lives in Hangzhou​.
+Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rocket: from Nanchang, China, now lives in Zhuhai​.
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only)
 
