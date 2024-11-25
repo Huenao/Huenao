@@ -5,14 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 [![ViewCount](https://views.whatilearened.today/views/github/huenao/huenao.svg)]()
 
-Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rocket: from Nanchang, China, now lives in Zhuhai​.
+Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rocket: from Nanchang, China, now live in Hong Kong​.
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Huenao&show_icons=true">](https://metrics.lecoq.io/Huenao#gh-light-mode-only)
 
 ### :smile: About me
 
--	:mortar_board: A graduate student at Sun Yat-Sen University.
--	:briefcase: I used to internship in [Manycore Research Institute](https://github.com/manycore-research/).
+-	:mortar_board: A PhD student at The Hong Kong Polytechnic University.
+-	:briefcase: I used to intern in [Manycore Research Institute](https://github.com/manycore-research/).
 -	:speech_balloon: You can ask me anything at [Discussions](https://github.com/Huenao/Huenao/discussions)!
 -	:mailbox: How to reach me: huwt25@mail2.sysu.edu.cn 
 
@@ -27,15 +27,5 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 - Multimodal Representation Learning
 - Data Analysis
 - **Anything interesting**
-
-&nbsp;
-
-### :hammer: Languages and Tools
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 
 
