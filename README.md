@@ -14,7 +14,7 @@ Hi, I'm **Hu** W**en**t**ao**, that's *Huenao* comes from. I'm a developer :rock
 -	:mortar_board: A PhD student at The Hong Kong Polytechnic University.
 -	:briefcase: I used to intern in [Manycore Research Institute](https://github.com/manycore-research/).
 -	:speech_balloon: You can ask me anything at [Discussions](https://github.com/Huenao/Huenao/discussions)!
--	:mailbox: How to reach me: huwt25@mail2.sysu.edu.cn 
+-	:mailbox: How to reach me: wayne-wt.hu@connect.polyu.hk 
 
 &nbsp;
 
